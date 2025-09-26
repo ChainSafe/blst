@@ -3,7 +3,7 @@
 # Usage
 
 ```sh
-zig fetch --save git+https://github.com/ChainSafe/blst.zig.git
+zig fetch --save git+https://github.com/ChainSafe/blst.git
 ```
 
 ```zig
